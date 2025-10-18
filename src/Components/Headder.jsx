@@ -10,7 +10,7 @@ const Headder = () => {
           <img className='w-[350px]' src={logo} alt="" />
           <p> sit amet consectetur adipisicing elit. Voluptates, laudantium!</p>
        
-          {/* react fns use first time.. date time year ar janno.. */}
+          {/* react fns use first time.. date time year ar janno.. and install...*/}
 
           <p> {format(new Date(),'EEEE,MMMM MM,yyyy')}</p>
         </div>
