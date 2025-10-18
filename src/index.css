@@ -8,3 +8,7 @@
   --color-secondary: teal;
 }
 /* color add kore jai ..... */
+/* NavLin active bg set... */
+a.active{
+  @apply bg-base-300
+}
