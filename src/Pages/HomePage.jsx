@@ -21,7 +21,7 @@ const HomePage = () => {
         </nav>
       </header>
       {/* 12 colum grid important word..... */}
-      <main className="w-11/12 mx-auto my-3  grid grid-cols-12">
+      <main className="w-11/12 mx-auto my-3  grid grid-cols-12  gap-5">
         {/* <section className='left-site'></section> */}
         <aside className="col-span-3">
           <LaftAside></LaftAside>
